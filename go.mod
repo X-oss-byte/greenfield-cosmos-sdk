@@ -62,12 +62,13 @@ require (
 	github.com/tidwall/btree v1.6.0
 	github.com/wealdtech/go-eth2-util v1.6.3
 	github.com/willf/bitset v1.1.3
-	golang.org/x/crypto v0.9.0
+	golang.org/x/crypto v0.14.0
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
-	golang.org/x/text v0.9.0
-	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
-	google.golang.org/grpc v1.56.1
-	google.golang.org/protobuf v1.30.0
+	golang.org/x/text v0.13.0
+	google.golang.org/genproto v0.0.0-20240102182953-50ed04b92917
+	google.golang.org/genproto/googleapis/api v0.0.0-20231212172506-995d672761c0
+	google.golang.org/grpc v1.60.1
+	google.golang.org/protobuf v1.32.0
 	gotest.tools/v3 v3.4.0
 	pgregory.net/rapid v0.5.5
 	sigs.k8s.io/yaml v1.3.0
@@ -103,7 +104,7 @@ require (
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang/glog v1.1.0 // indirect
+	github.com/golang/glog v1.1.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
@@ -154,9 +155,10 @@ require (
 	github.com/zondax/hid v0.9.1 // indirect
 	github.com/zondax/ledger-go v0.14.1 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
-	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
-	golang.org/x/term v0.8.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/term v0.13.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20231212172506-995d672761c0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
