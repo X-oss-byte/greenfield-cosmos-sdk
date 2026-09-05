@@ -66,7 +66,7 @@ require (
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
 	golang.org/x/text v0.9.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
-	google.golang.org/grpc v1.56.1
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.30.0
 	gotest.tools/v3 v3.4.0
 	pgregory.net/rapid v0.5.5
@@ -182,7 +182,7 @@ replace (
 	// TODO Remove it: https://github.com/cosmos/cosmos-sdk/issues/10409
 	github.com/gin-gonic/gin => github.com/gin-gonic/gin v1.9.1
 	// replace broken goleveldb
-	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
+	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20220721030215-126854af5e6d
 )
 
 retract (
