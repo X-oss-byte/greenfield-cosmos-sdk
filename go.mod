@@ -66,7 +66,7 @@ require (
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
 	golang.org/x/text v0.9.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
-	google.golang.org/grpc v1.56.1
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.30.0
 	gotest.tools/v3 v3.4.0
 	pgregory.net/rapid v0.5.5
@@ -108,7 +108,7 @@ require (
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/orderedcode v0.0.1 // indirect
-	github.com/gorilla/websocket v1.5.0 // indirect
+	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/gtank/merlin v0.1.1 // indirect
 	github.com/gtank/ristretto255 v0.1.2 // indirect
