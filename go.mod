@@ -1,4 +1,4 @@
-go 1.19
+go 1.25.0
 
 module github.com/cosmos/cosmos-sdk
 
@@ -62,11 +62,11 @@ require (
 	github.com/tidwall/btree v1.6.0
 	github.com/wealdtech/go-eth2-util v1.6.3
 	github.com/willf/bitset v1.1.3
-	golang.org/x/crypto v0.9.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
-	golang.org/x/text v0.9.0
+	golang.org/x/text v0.37.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
-	google.golang.org/grpc v1.56.1
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.30.0
 	gotest.tools/v3 v3.4.0
 	pgregory.net/rapid v0.5.5
@@ -154,9 +154,9 @@ require (
 	github.com/zondax/hid v0.9.1 // indirect
 	github.com/zondax/ledger-go v0.14.1 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
-	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
-	golang.org/x/term v0.8.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/term v0.43.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
